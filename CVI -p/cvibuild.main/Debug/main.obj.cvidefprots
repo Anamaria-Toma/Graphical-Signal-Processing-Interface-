@@ -1,0 +1,100 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:53:5"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:114:17"
+
+[ExitMain]
+Class="Function"
+Prototype="int ExitMain(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:207:17"
+
+[VIEW_HISTOGRAM]
+Class="Function"
+Prototype="int VIEW_HISTOGRAM(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:232:17"
+
+[OnClickApplyButton]
+Class="Function"
+Prototype="int OnClickApplyButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:261:17"
+
+[PrevValueSecond]
+Class="Function"
+Prototype="int PrevValueSecond(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:302:17"
+
+[NextValueSecond]
+Class="Function"
+Prototype="int NextValueSecond(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:357:17"
+
+[SaveImageGraphic]
+Class="Function"
+Prototype="int SaveImageGraphic(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:421:17"
+
+[GenerateDerivativeFunction]
+Class="Function"
+Prototype="int GenerateDerivativeFunction(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:452:17"
+
+[GenerareAnvelopa]
+Class="Function"
+Prototype="int GenerareAnvelopa(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:480:17"
+
+[ViewHystogram]
+Class="Function"
+Prototype="int ViewHystogram(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:507:17"
+
+[GenerateSkewness]
+Class="Function"
+Prototype="int GenerateSkewness(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:538:17"
+
+[GenerateKurtosis]
+Class="Function"
+Prototype="int GenerateKurtosis(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:563:17"
+
+[Select_Parameter]
+Class="Function"
+Prototype="int Select_Parameter(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:591:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:619:17"
+
+[OnFrequencyPanel]
+Class="Function"
+Prototype="int OnFrequencyPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:646:17"
+
+[OnLoadButtonCB2]
+Class="Function"
+Prototype="int OnLoadButtonCB2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:683:17"
+
+[SetDataValues]
+Class="Function"
+Prototype="int SetDataValues(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:767:17"
+
+[ApplyWindows]
+Class="Function"
+Prototype="int ApplyWindows(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:793:17"
+
+[ApplyFilter]
+Class="Function"
+Prototype="int ApplyFilter(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Anamaria\Desktop\CVI -p\CVI -p\main.c:841:17"
+
